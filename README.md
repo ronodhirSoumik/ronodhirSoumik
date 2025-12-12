@@ -14,7 +14,7 @@
 </p>
 
 - Research Focus: Human-Centered Security, Software Engineering, Privacy Preserving AI/ML
-- Currently Working: Federated Learning Security 
+- Currently Exploring: Security in Federated Learning Architecture, Secure UI/UX
 
 <h3 align="left">Notable Open Source Contributions</h3>
 
