@@ -34,6 +34,18 @@
   </li>
 
   <li>
+    <a href="https://github.com/flwrlabs/flower">flwrlabs/flower</a> — Flower Federated Framework
+    <br/>
+    <img src="https://img.shields.io/github/stars/flwrlabs/flower?style=flat&label=stars" alt="stars" />
+    <img src="https://img.shields.io/github/last-commit/flwrlabs/flower?style=flat&label=last%20commit" alt="last commit" />
+    <br/>
+    <a href="https://github.com/flwrlabs/flower/pulls?q=is%3Apr+author%3AronodhirSoumik">PRs</a> ·
+    <a href="https://github.com/flwrlabs/flower/pulls?q=is%3Apr+author%3AronodhirSoumik+is%3Amerged">Merged PRs</a> ·
+    <a href="https://github.com/flwrlabs/flower/issues?q=is%3Aissue+author%3AronodhirSoumik">Issues</a> ·
+    <a href="https://github.com/flwrlabs/flower/pulls?q=is%3Apr+reviewed-by%3AronodhirSoumik">Reviews</a>
+  </li>
+
+  <li>
     <a href="https://github.com/kamranahmedse/developer-roadmap">kamranahmedse/developer-roadmap</a> — Developer Roadmap
     <br/>
     <img src="https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=flat&label=stars" alt="stars" />
@@ -44,24 +56,12 @@
     <a href="https://github.com/kamranahmedse/developer-roadmap/issues?q=is%3Aissue+author%3AronodhirSoumik">Issues</a> ·
     <a href="https://github.com/kamranahmedse/developer-roadmap/pulls?q=is%3Apr+reviewed-by%3AronodhirSoumik">Reviews</a>
   </li>
-
-  <li>
-    <a href="https://github.com/dailydotdev/daily">dailydotdev/daily</a> — daily.dev app
-    <br/>
-    <img src="https://img.shields.io/github/stars/dailydotdev/daily?style=flat&label=stars" alt="stars" />
-    <img src="https://img.shields.io/github/last-commit/dailydotdev/daily?style=flat&label=last%20commit" alt="last commit" />
-    <br/>
-    <a href="https://github.com/dailydotdev/daily/pulls?q=is%3Apr+author%3AronodhirSoumik">PRs</a> ·
-    <a href="https://github.com/dailydotdev/daily/pulls?q=is%3Apr+author%3AronodhirSoumik+is%3Amerged">Merged PRs</a> ·
-    <a href="https://github.com/dailydotdev/daily/issues?q=is%3Aissue+author%3AronodhirSoumik">Issues</a> ·
-    <a href="https://github.com/dailydotdev/daily/pulls?q=is%3Apr+reviewed-by%3AronodhirSoumik">Reviews</a>
-  </li>
 </ul>
 </p>
 
 <!-- Current year activity graph -->
 <a href="https://github.com/ronodhirSoumik">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronodhirSoumik&from=2025-01-01&to=2025-12-31&theme=github-compact&hide_border=true" height="200" alt="2025 activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronodhirSoumik&theme=github-compact&hide_border=true" height="200" alt="2025 activity graph" />
 </a>
 
 <!-- <p align="left"><sub>Last updated: 2025-10-31</sub></p> -->
