@@ -48,7 +48,7 @@
   <li>
     <a href="https://github.com/kamranahmedse/developer-roadmap">kamranahmedse/developer-roadmap</a> — Developer Roadmap
     <br/>
-    <img src="https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=flat&label=stars" alt="stars" />
+    <img src="https://img.shields.io/github/stars/nilbuild/developer-roadmap?style=flat&label=stars" alt="stars" />
     <img src="https://img.shields.io/github/last-commit/kamranahmedse/developer-roadmap?style=flat&label=last%20commit" alt="last commit" />
     <br/>
     <a href="https://github.com/kamranahmedse/developer-roadmap/pulls?q=is%3Apr+author%3AronodhirSoumik">PRs</a> ·
